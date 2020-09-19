@@ -1,1 +1,1 @@
-# easy-search-app-heroku-api
+# smartsearch
